@@ -1,19 +1,23 @@
-# [Phenomic](https://github.com/MoOx/phenomic) phenomic-theme-base
+Friends
+=======
 
-## Install dependencies
+Install dependencies
+--------------------
 
 ```sh
-npm install
+yarn install
 ```
 
-## Run development server
+Run development server
+----------------------
 
 ```sh
-npm start
+yarn start
 ```
 
-## Build for production
+Build for production
+--------------------
 
 ```sh
-npm run build
+yarn run deploy
 ```
